@@ -1,3 +1,3 @@
 # Ecuacion_cuadratica_JAVA
 
-es una calculadora para resolver ecuaciones cuadraticas, lo abres con eclipse y ejecutas.
+Calculadora para resolver ecuaciones cuadráticas, lo abres con eclipse y ejecutas.
